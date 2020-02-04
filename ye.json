@@ -12,10 +12,10 @@
 {"number":"9","name":"جراند إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/GrandFM.jpeg","streamUrl":"http://listen1.mixlr.com/beb6ef3a63df09b0e7937d3f192bf901","yourmuzeId":"0","state":"2"},
 {"number":"10","name":"إذاعة وطن","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/watanFM.jpg","streamUrl":"http://s12.myradiostream.com:16308/listen.mp3","yourmuzeId":"0","state":"1"},
 {"number":"11","name":"صوت الشعب إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/sawtalshaab.png","streamUrl":"http://178.32.62.172:9400/;stream100.mp3","yourmuzeId":"0","state":"1"},
-{"number":"11","name":"راديو اليمن العربي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/yamenaraby.png","streamUrl":"http://radioma3ak.com:8100/","yourmuzeId":"0","state":"1"},
-{"number":"12","name":"آفاق إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/afaqfm.jpg","streamUrl":"http://listen1.mixlr.com/fa76bc673e02cd1c77d7013e31041f39","yourmuzeId":"0","state":"1"},
-{"number":"13","name":"راديو مونتيكارلو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
-{"number":"14","name":"راديو ساوا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/sawa.png","streamUrl":"https://mbn-channel-02.akacast.akamaistream.net/7/32/233451/v1/ibb.akacast.akamaistream.net/mbn_channel_02","yourmuzeId":"0","state":"1"}
+{"number":"12","name":"راديو اليمن العربي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/yamenaraby.png","streamUrl":"http://radioma3ak.com:8100/","yourmuzeId":"0","state":"1"},
+{"number":"13","name":"آفاق إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/afaqfm.jpg","streamUrl":"http://listen1.mixlr.com/fa76bc673e02cd1c77d7013e31041f39","yourmuzeId":"0","state":"1"},
+{"number":"14","name":"راديو مونتيكارلو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
+{"number":"15","name":"راديو ساوا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/sawa.png","streamUrl":"https://mbn-channel-02.akacast.akamaistream.net/7/32/233451/v1/ibb.akacast.akamaistream.net/mbn_channel_02","yourmuzeId":"0","state":"1"}
 
 
 ],
