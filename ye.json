@@ -14,16 +14,20 @@
 {"number":"10","name":"إذاعة وطن","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/watanFM.jpg","streamUrl":"http://s12.myradiostream.com:16308/listen.mp3","yourmuzeId":"0","state":"1"},
 {"number":"11","name":"صوت الشعب إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/sawtalshaab.png","streamUrl":"http://178.32.62.172:9400/;stream100.mp3","yourmuzeId":"0","state":"1"},
 {"number":"12","name":"راديو اليمن العربي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/yamenaraby.jpg","streamUrl":"http://radioma3ak.com:8100/listen.pls","yourmuzeId":"0","state":"1"},
-{"number":"13","name":"آفاق إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/afaqfm.jpg","streamUrl":"http://listen1.mixlr.com/fa76bc673e02cd1c77d7013e31041f39","yourmuzeId":"0","state":"1"},
+{"number":"13","name":"آفاق إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/afaqfm.jpg","streamUrl":"http://edge.mixlr.com/channel/rumps","yourmuzeId":"0","state":"1"},
 {"number":"14","name":"إيرام إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/eramfm.png","streamUrl":"http://icecast2.edisimo.com:8000/eramfm.mp3","yourmuzeId":"0","state":"1"},
 {"number":"15","name":"راديو مونتيكارلو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
 {"number":"16","name":"عدن 24","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/aden24.png","streamUrl":"http://88.99.223.146:9310/;","yourmuzeId":"0","state":"1"},
 {"number":"17","name":"راديو لنا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/RadioLana.png","streamUrl":"http://node-28.zeno.fm/542gubz258quv","yourmuzeId":"0","state":"1"},
 {"number":"18","name":"العدني","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/adni.png","streamUrl":"http://edge.mixlr.com/channel/vucnv","yourmuzeId":"0","state":"1"},
 {"number":"19","name":"يمن شباب","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/yemenshabab.png","streamUrl":"https://master.starmena-cloud.com/yemenshabab.mp3","yourmuzeId":"0","state":"1"},
-{"number":"20","name":"راديو ساوا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/sawa.png","streamUrl":"https://mbn-channel-02.akacast.akamaistream.net/7/32/233451/v1/ibb.akacast.akamaistream.net/mbn_channel_02","yourmuzeId":"0","state":"1"}
+{"number":"20","name":"راديو ساوا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/sawa.png","streamUrl":"https://mbn-channel-02.akacast.akamaistream.net/7/32/233451/v1/ibb.akacast.akamaistream.net/mbn_channel_02","yourmuzeId":"0","state":"1"},
+{"number":"21","name":"راديو المسيرة","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ye/master/almasirah.png","streamUrl":"https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8","yourmuzeId":"0","state":"1"}
 
 
 ],
 "country":{"id":"60","name":"oman","logo":"..\/..\/_upload\/_flags\/oman.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
+
+
+
 
