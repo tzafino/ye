@@ -11,7 +11,7 @@
     "state":"1"
   },
   {
-    "number":"0",
+    "number":"1",
     "name":"CJOB - 680 AM",
     "streamUrl":"http://live.leanstream.co/CJOBAM-MP3",
     "logo":"https://cdn-profiles.tunein.com/s31221/images/logoq.png?t=151318",
@@ -20,7 +20,7 @@
     "state":"1"
   },
   {
-    "number":"0",
+    "number":"2",
     "name":"CKNW AM 980",
     "streamUrl":"http://live.leanstream.co/CKNWAM-MP3",
     "logo":"https://cdn-profiles.tunein.com/s31271/images/logoq.jpg?t=155480",
@@ -30,7 +30,7 @@
   },
 
   {
-    "number":"0",
+    "number":"3",
     "name":"99.9 Virgin (CKFM-FM)",
     "streamUrl":"http://cfqx.streamon.fm:8000/CFQX-48k.aac",
     "logo":"https://cdn-profiles.tunein.com/s31250/images/logoq.png4",
