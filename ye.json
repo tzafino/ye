@@ -26,7 +26,10 @@
 {"number":"22","name":"مزاج FM","description":"","logo":"/mazaj%20fm.jpg","streamUrl":"http://ice5.securenetsystems.net/MAZAJFM?type=.mp3","yourmuzeId":"0","state":"1"},
 {"number":"23","name":"إذاعة مأرب","description":"","logo":"/radio%20maarib.png","streamUrl":"http://radio1.sotmasr.com:9300/stream","yourmuzeId":"0","state":"1"}, 
 {"number":"24","name":"إذاعة المكلا المحلية","description":"","logo":"/ida3at%20makalla.png","streamUrl":"http://212.83.138.48:8096/stream","yourmuzeId":"0","state":"1"}, 
- 
+ {"number":"25","name":"sky news arabia (سكاي نيوز عربية)","description":"","logo":"/sky news arabia.png","streamUrl":"https://radio.skynewsarabia.com/stream/radio/skynewsarabia","yourmuzeId":"0","state":"1"},   
+{"number":"26","name":"FM العربية","description":"","logo":"/Al-Arabiya-FM.jpg","streamUrl":"https://fm.alarabiya.net/fm/myStream/playlist.m3u8","yourmuzeId":"0","state":"1"},   
+{"number":"27","name":"Radio Al Jazeera Arabic (إذاعة الجزيرة العربية)","description":"","logo":"//Al-jazeera.jpg","streamUrl":"https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8","yourmuzeId":"0","state":"1"}, 
+     
  
  
 
