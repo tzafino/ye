@@ -22,7 +22,7 @@
 {"number":"18","name":"العدني","description":"","logo":"/adni.png","streamUrl":"http://edge.mixlr.com/channel/vucnv","yourmuzeId":"0","state":"1"}, 
 {"number":"19","name":"يمن شباب","description":"","logo":"/yemenshabab.png","streamUrl":"https://master.starmena-cloud.com/yemenshabab.mp3","yourmuzeId":"0","state":"1"},
 {"number":"20","name":"راديو ساوا","description":"","logo":"/sawa.png","streamUrl":"https://mbn-channel-02.akacast.akamaistream.net/7/32/233451/v1/ibb.akacast.akamaistream.net/mbn_channel_02","yourmuzeId":"0","state":"1"},
-{"number":"21","name":"راديو المسيرة","description":"","logo":"/almasirah.png","streamUrl":"https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8","yourmuzeId":"0","state":"0"},
+{"number":"21","name":"راديو المسيرة","description":"","logo":"/almasirah.png","streamUrl":"https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"22","name":"مزاج FM","description":"","logo":"/mazaj%20fm.jpg","streamUrl":"http://ice5.securenetsystems.net/MAZAJFM?type=.mp3","yourmuzeId":"0","state":"1"},
 {"number":"23","name":"إذاعة مأرب","description":"","logo":"/radio%20maarib.png","streamUrl":"http://radio1.sotmasr.com:9300/stream","yourmuzeId":"0","state":"1"}, 
 {"number":"24","name":"إذاعة المكلا المحلية","description":"","logo":"/ida3at%20makalla.png","streamUrl":"http://212.83.138.48:8096/stream","yourmuzeId":"0","state":"1"}, 
