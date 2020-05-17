@@ -1,7 +1,7 @@
  {"success":true,"message":"","radios":
 [
 
-{"number":"0","name":"الوان اف ام","description":"","logo":"/alwanfm.png","streamUrl":"http://108.61.34.50:7005/LIVE","yourmuzeId":"0","state":"1"},
+{"number":"0","name":"الوان اف ام","description":"","logo":"/alwanfm.png","streamUrl":"http://108.61.34.50:7005/LIVE","yourmuzeId":"0","state":"0"},
 {"number":"1","name":"إذاعة سيئون","description":"","logo":"/Seiyun.jpg","streamUrl":"http://212.83.138.48:8190/stream","yourmuzeId":"0","state":"1"},
 {"number":"2","name":"إذاعة صنعاء(البرنامج العام)","description":"","logo":"/Sanaa.jpg","streamUrl":"http://93.190.141.15:7183/live","yourmuzeId":"0","state":"1"},
 {"number":"3","name":"بندر عدن","description":"","logo":"/Bandar.jpg","streamUrl":"http://r2.bandaraden.net:8000/bndr/;","yourmuzeId":"0","state":"1"},
@@ -17,7 +17,7 @@
 {"number":"13","name":"آفاق إف إم","description":"","logo":"/afaqfm.jpg","streamUrl":"http://edge.mixlr.com/channel/rumps","yourmuzeId":"0","state":"1"},
 {"number":"14","name":"إيرام إف إم","description":"","logo":"/eramfm.png","streamUrl":"http://icecast2.edisimo.com:8000/eramfm.mp3","yourmuzeId":"0","state":"1"},
 {"number":"15","name":"راديو مونتيكارلو","description":"","logo":"/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
-{"number":"16","name":"عدن 24","description":"","logo":"/aden24.png","streamUrl":"http://88.99.223.146:9310/;","yourmuzeId":"0","state":"2"},
+{"number":"16","name":"عدن 24","description":"","logo":"/aden24.png","streamUrl":"http://88.99.223.146:9310/;","yourmuzeId":"0","state":"0"},
 {"number":"17","name":"راديو لنا","description":"","logo":"/RadioLana.png","streamUrl":"http://node-28.zeno.fm/542gubz258quv","yourmuzeId":"0","state":"1"},
 {"number":"18","name":"العدني","description":"","logo":"/adni.png","streamUrl":"http://edge.mixlr.com/channel/vucnv","yourmuzeId":"0","state":"1"}, 
 {"number":"19","name":"يمن شباب","description":"","logo":"/yemenshabab.png","streamUrl":"https://master.starmena-cloud.com/yemenshabab.mp3","yourmuzeId":"0","state":"1"},
