@@ -13,7 +13,7 @@
 {"number":"9","name":"جراند إف إم","description":"","logo":"/GrandFM.jpeg","streamUrl":"https://listen.mixlr.com/082a698b1a7bfe8fc8edb481e54b313a","yourmuzeId":"0","state":"0"},
 {"number":"10","name":"إذاعة وطن","description":"","logo":"/watanFM.jpg","streamUrl":"http://192.99.170.8:5470/;/;stream.mp3","yourmuzeId":"0","state":"1"},
 {"number":"11","name":"صوت الشعب إف إم","description":"","logo":"/sawtalshaab.png","streamUrl":"http://178.32.62.172:9400/index?listening-from-radio-garden","yourmuzeId":"0","state":"1"},
-{"number":"12","name":"راديو اليمن العربي","description":"","logo":"/yamenaraby.jpg","streamUrl":"http://radioma3ak.com:8100/listen.pls","yourmuzeId":"0","state":"0"},
+{"number":"12","name":"راديو اليمن العربي","description":"","logo":"/yamenaraby.jpg","streamUrl":"http://www.radioma3ak.com:8100/;","yourmuzeId":"0","state":"1"},
 {"number":"13","name":"آفاق إف إم","description":"","logo":"/afaqfm.jpg","streamUrl":"http://edge.mixlr.com/channel/rumps","yourmuzeId":"0","state":"1"},
 {"number":"14","name":"إيرام إف إم","description":"","logo":"/eramfm.png","streamUrl":"http://icecast2.edisimo.com:8000/eramfm.mp3","yourmuzeId":"0","state":"1"},
 {"number":"15","name":"راديو مونتيكارلو","description":"","logo":"/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
